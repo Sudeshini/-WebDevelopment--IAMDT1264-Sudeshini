@@ -1,0 +1,17 @@
+{
+  "name": "amdtsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudeshini Thenuwara amdt1264",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "monk": "^7.3.4",
+    "nodemailer": "^6.7.2"
+  }
+}

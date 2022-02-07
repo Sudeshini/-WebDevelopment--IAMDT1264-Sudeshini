@@ -93,7 +93,7 @@ nav img{
      display: inline-block;
      text-decoration: none;
      color: #000000;
-     border: 1px solid #1c0de9;
+     border: 1px solid #553CEF;
      padding: 12px 34px;
      font-size: 14px;
      background: transparent;
@@ -193,7 +193,7 @@ p{
 .course-col{
      
     flex-basis: 31%;
-    background: #283397;
+    background: #553CEF;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
@@ -278,7 +278,7 @@ box-shadow: 0 0 20px 0px rgba(0,0,0,0,2);
     border-radius: 10x;
     margin-top: 5%;
     text-align: left;
-    background: #283397;
+    background: #553CEF;
     padding: 25px;
     cursor: pointer;
     display: flex;
@@ -398,7 +398,7 @@ form  .submit{
       display: inline-block;
      text-decoration: none;
      color: #000000;
-     border: 1px solid #1c0de9;
+     border: 1px solid #553CEF;
 }
 
 form .submit:hover{
@@ -435,7 +435,7 @@ form .submit:hover{
 
 .icons.fa{
 
-color: #1c0de9;
+color: #553CEF;
 margin: 0 13px;
 cursor: pointer;
 padding: 18px 0;
@@ -444,7 +444,7 @@ padding: 18px 0;
 
 .fa-fa-heart-0{
 
-    color: #1c0de9;
+    color: #553CEF;
 
 }
 
